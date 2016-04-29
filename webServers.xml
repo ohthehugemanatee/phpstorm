@@ -1,0 +1,18 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6bf118ea-2a51-483b-a021-d43234debcfa" name="Techgorillas" url="http://localhost/techgorillas/public">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="cf70725b-79e4-47da-b6da-fe4f0323c445" name="cast-movie" url="http://localhost/cast-movie">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="f732449d-b7fb-4fa1-953b-65cac54e3c06" name="MAMP" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="097d9ffe-cd68-4807-8709-82ae9ded7755" name="vagrant generic" url="http://localhost:8080">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
