@@ -13,6 +13,9 @@
       <webServer id="097d9ffe-cd68-4807-8709-82ae9ded7755" name="vagrant generic" url="http://localhost:8080">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="2c9f59e2-a2ac-4c5f-a711-2bd373bc3978" name="Vagrant" url="http://10.11.12.14">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
